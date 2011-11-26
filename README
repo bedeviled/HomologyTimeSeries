@@ -1,0 +1,6 @@
+build time-dependent homology bar graph for time slices of an entire network.  Try to do change detection.  Probable negative outcome: hard to detect structural change… too wiggly.  Secondarily we can add persistence to the picture.  The first question to ask there is: what is the correct notion of persistence.  Ideas include: inclusion of flow in time window around, inclusion of flow in entropy window, inclusion of flow in  port window.
+
+on hiatus for future: break the graphs in pieces.
+
+subproblem: can we embed the network in a space in a reasonable way? what does this gain us?
+
