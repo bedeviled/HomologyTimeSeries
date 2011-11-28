@@ -4,3 +4,6 @@ on hiatus for future: break the graphs in pieces.
 
 subproblem: can we embed the network in a space in a reasonable way? what does this gain us?
 
+Hypothesis: choosing carefully what your faces and dimension of said faces are for your graph can have analytic impact.  It certainly has topological consequences.  You have a collection of points.  How you decide to connect those points will affect your answer.  What is the correct way to interpret these points as a geometric object.
+
+possible approach: perform the above homology statistics on a filtration over the dimension of the max simplex dimension.
